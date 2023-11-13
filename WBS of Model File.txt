@@ -1,0 +1,28 @@
+-Step 1 - Importing Data and Libraries
+-Step 2 - EDA and Feature Eng.
+  -Step 2.1 - Data Overview & Columns Preparetion
+  -Step 2.2 - Duplicate & Duplicate Check
+  -Step 2.3 - Data Analysis
+  -Step 2.4 - Data Preparation for Prediction Models
+-Step 3 - Future Prediction
+  -Step 3.1 - Holt-Winters Model
+    -Step 3.1.1 - Train Test Split
+    -Step 3.1.2 - Model Fitting
+    -Step 3.1.3 - Model Evaluation
+  -Step 3.2 - AR Model
+    -Step 3.2.1 - Train Test Split
+    -Step 3.2.2 - Model Fitting
+    -Step 3.2.3 - Model Evaluation
+  -Step 3.3 - Auto ARIMA Model
+    -Step 3.3.1 - Train Test Split
+    -Step 3.3.2 - Model Fitting
+    -Step 3.3.3 - Model Evaluation
+  -Step 3.4 - LSTM Model
+    -Step 3.4.1 - Train Test Split
+    -Step 3.4.2 - Model Fitting
+    -Step 3.4.3 - Model Evaluation
+  -Step 3.5 - Prophet Model
+    -Step 3.5.1 - Train Test Split
+    -Step 3.5.2 - Model Fitting
+    -Step 3.5.3 - Model Evaluation
+  -Step 3.6 - Model Comparison
