@@ -3,12 +3,7 @@ This is a Stock Price Prediction Project with multiple models in order to compar
 
 ## Aims and Objectives
 
-The main aim of this case was to build a model that could accurately predict whether passengers were satisfied with their flight or not.
-
-The side aims were:
-
-- Comparison of the performance of multiple data sets scaled in different ways including: Raw, Normalization, Standardization and Robust Scaling
-- Comparison of different user-ready scikit-learn models and an ANN model created with Tensorflow-Keras
+This repository contains an experiment to see how different models will predict the future of a stock data. All the models was fed with the first 90% of the stock history so that they can forecast the last 10 percent.
 
 ## Requirements
 
@@ -26,14 +21,14 @@ The side aims were:
 The overview of the code can be seen on the following link <a href="https://github.com/BerkaySarpkaya/Stock-Price-Combined-Models/blob/main/WBS%20of%20Model%20File.txt"> Overview of the code</a>
 ## Dataset
 
-The data was pulled from the AlphaVentage's website through its API, (<a href="https://www.alphavantage.co/documentation/"> see the link</a>).
+Over 20 years of Berkshire Stock data was pulled from the AlphaVentage's website through its API, (<a href="https://www.alphavantage.co/documentation/"> see the link</a>).
 
 ## Data Preparation
 
 - Data was in JSON format. It was transformed into a dataframe on the first notebook <a href="https://github.com/BerkaySarpkaya/Stock-Price-Combined-Models/blob/main/Data-Collection-API.ipynb"> Data-Collection-API </a>).
 - Missing days was filled with forward filling.
 
-## Model Selection and Evaluation
+## Model Evaluation
 
 ### _Model Selection_
 
