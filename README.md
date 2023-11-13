@@ -2,7 +2,7 @@
 This is a Stock Price Prediction Project with multiple models in order to compare the results. Data is derived from AlphaVantage.com through its API.
 
 <!--ts-->
-* [Aims and Objectives](#Aims-and-Objectives)
+* [Objective](#Objective)
 * [Requirements](#Requirements)
 * [Dataset](#Dataset)
 * [Data Preparation](#Data-Preparation)
@@ -11,7 +11,7 @@ This is a Stock Price Prediction Project with multiple models in order to compar
 * [License](#License)
 <!--te-->
 
-## Aims and Objectives
+## Objective
 
 This repository contains an experiment to see how different models will predict the future of a stock data. All the models was fed with the first 90% of the stock history so that they can forecast the last 10 percent.
 
