@@ -17,16 +17,16 @@ This repository contains an experiment to see how different models will predict 
 
 ## Requirements
 
-Python Version: 3.11.6
-Pandas Version: 2.1.1
-Numpy Version: 1.24.4
-Matplotlib Version: 3.8.0
-Seaborn Version: 0.13.0
-Tensorflow Version: 2.13.0
-Scikit-Learn Version: 1.3.1
-pmdarima Version: 2.0.4
-statsmodels Version: 0.14.0
-Prophet Version: 1.1.4
+- Python Version: 3.11.6
+- Pandas Version: 2.1.1
+- Numpy Version: 1.24.4
+- Matplotlib Version: 3.8.0
+- Seaborn Version: 0.13.0
+- Tensorflow Version: 2.13.0
+- Scikit-Learn Version: 1.3.1
+- pmdarima Version: 2.0.4
+- statsmodels Version: 0.14.0
+- Prophet Version: 1.1.4
 
 The overview of the code can be seen on the following link <a href="https://github.com/BerkaySarpkaya/Stock-Price-Combined-Models/blob/main/WBS%20of%20Model%20File.txt"> Overview of the code</a>
 
