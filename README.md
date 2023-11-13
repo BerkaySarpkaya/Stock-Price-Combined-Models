@@ -43,10 +43,7 @@ Over 20 years of Berkshire Stock data was pulled from the AlphaVentage's website
 
 ### _Model Selection_
 
-- Accuracy Score was choosen as the main metric because the target variable has balanced output values
-- A range of user-ready models were selected including logistic regression, KNN, Perceptron, SVC, Bagging and Boosting Decision Tree algorithms.
-- On top of that, a basic ANN architecture was modeled with kernel-regularizer(l2=0.01). Linear activation at the and node and (from_logits=True) argument with loss function were also used to prevent computational errors by treating the output as a raw unbounded score rather than probability.
-- "Different model X different scaling method" combinations were performed to see the best Accuracy Score.
+Forecasting the future of stock data is a challenging task due to the uncertainties in financial markets and numerous factors. In this context, the results of the modeling study evaluated the performance of five different models: Holt-Winters, AR (AutoRegressive), ARIMA (AutoRegressive Integrated Moving Average), LSTM (Long Short-Term Memory), and Prophet.
 
 ### _Model Evaluation_
 
