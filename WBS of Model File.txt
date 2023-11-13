@@ -1,5 +1,5 @@
 -Step 1 - Importing Data and Libraries
--Step 2 - EDA and Feature Eng.
+-Step 2 - EDA and Data Preparation.
   -Step 2.1 - Data Overview & Columns Preparetion
   -Step 2.2 - Duplicate & Duplicate Check
   -Step 2.3 - Data Analysis
